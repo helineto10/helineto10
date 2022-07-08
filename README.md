@@ -1,5 +1,3 @@
-<center>
-
 # Hi there 👋 I'm Heli Rufino 👨‍💻
 ### A front-end developer from Brazil
 * Proficiency in HTML & CSS transforming desings to pixel-perfect and fully responsive websites.
@@ -26,4 +24,5 @@
 ## Databases and cloud hosting
 ![image](https://camo.githubusercontent.com/2284cc136fb1107b6b2342a40da1d01e39acf821e49dd7ed47bbceba6b5bb50c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030302e7376673f6c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 
-</center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helineto10&layout=compact&theme=dark&hide_border=true)](https://github.com/helineto10/github-readme-stats)
